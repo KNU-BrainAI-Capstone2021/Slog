@@ -1,0 +1,24 @@
+#우리조가 참고하는 깃허브 페이지 https://github.com/gilbutITbook/080228
+
+#딥러닝 작업 환경을 만들어주기 위한 과정
+
+파이썬만 설치하는 것이 아니라 '아나콘다' 통합 패키지 설치를 추천함.\n
+http://www.anaconda.com에 접속하여 individual 전용을 설치\n
+advanced 옵션단계에서 'add anaconda3 to my path environment variable'에 체크하고 아래는 체크 해제\n
+
+#아나콘다 실행후\n
+1.conda create -n py37 python=3.7을 입력하여 실행. 그러면 (base)가 (py37)로 바뀜\n
+
+#텐서플로, 케라스 설치하기\n
+1. pip install tensorflow==2.0.0 입력하여 설치 진행\n
+2. pip install keras==2.3을 입력하여 케라스 설치\n
+
+#설치가 제대로 되었는지 확인하기\n
+1.python을 입력하고 import tensorflow as tf를 입력하여 텐서플로 불러오기\n
+2.print(tf.__version__)을 입력하기\n
+3.import keras 입력하고 using tensorflow backend라고 출력되면 성공.\n
+4.exit()를 입력하여 종료하기\n
+
+#주피터 노트북 사용하기\n
+1. pip install jupyter 입력하여 설치하기\n
+2. jupyter notebook입력하여 실행하기\n
