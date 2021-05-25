@@ -1,10 +1,12 @@
 # SLOG 팀 
-![Slog1](https://user-images.githubusercontent.com/80320168/119489721-ee8e9d80-bd96-11eb-98b9-9bf321dcc803.png)
+<img src="https://user-images.githubusercontent.com/80320168/119489721-ee8e9d80-bd96-11eb-98b9-9bf321dcc803.png"  width="600" height="350">
 
 SLOG의 뜻 : (시간이 오래 걸리는 힘든지루한 일을) 열심히[묵묵히] 하다 또는 힘겹게[묵묵히] 걷다[다니다]
 
 # 1학기 프로젝트 내용
 SNS사용자의 데이터를 분석하여 autotag 프로그램 개발
+
+<img src="https://user-images.githubusercontent.com/80320168/119504353-d7f04280-bda6-11eb-855c-d841a7730b8d.jpg"  width="400" height="300">
 
 #구성인원: 총 4명
 
