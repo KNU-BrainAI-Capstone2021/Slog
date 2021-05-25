@@ -15,6 +15,10 @@ SNS사용자의 데이터를 분석하여 autotag 프로그램 개발
 조원|윤성민|
 조원|이지현|
 
+#인스타그램 크롤링하기
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/80320168/119503688-34069700-bda6-11eb-9eaa-943547a03576.gif)
+
 # 진행과정
 
 날짜| 요약|
