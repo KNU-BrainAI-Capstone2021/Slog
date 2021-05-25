@@ -1,10 +1,12 @@
 # SLOG 팀 
-<img src="https://user-images.githubusercontent.com/80320168/119489721-ee8e9d80-bd96-11eb-98b9-9bf321dcc803.png"  width="600" height="350">
+![슬로그](https://user-images.githubusercontent.com/80320168/119520172-05dc8380-bdb5-11eb-90c0-670155246297.jpg)
 
 SLOG의 뜻 : (시간이 오래 걸리는 힘든지루한 일을) 열심히[묵묵히] 하다 또는 힘겹게[묵묵히] 걷다[다니다]
 
 # 1학기 프로젝트 내용
 SNS사용자의 데이터를 분석하여 autotag 프로그램 개발
+
+#인스타그램
 
 <img src="https://user-images.githubusercontent.com/80320168/119504353-d7f04280-bda6-11eb-855c-d841a7730b8d.jpg"  width="400" height="300">
 
@@ -17,7 +19,11 @@ SNS사용자의 데이터를 분석하여 autotag 프로그램 개발
 조원|윤성민|
 조원|이지현|
 
-#인스타그램 크롤링하기
+#자동로그인과 자동으로 태그를 검색하기
+
+![자동로그인](https://user-images.githubusercontent.com/80320168/119519066-13453e00-bdb4-11eb-8243-11c7bc1e3ed1.gif)
+
+#인스타그램 게시물을 크롤링하기
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/80320168/119503688-34069700-bda6-11eb-9eaa-943547a03576.gif)
 
