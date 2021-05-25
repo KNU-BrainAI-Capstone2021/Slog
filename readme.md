@@ -1,4 +1,6 @@
 # SLOG 팀 
+![Slog1](https://user-images.githubusercontent.com/80320168/119489721-ee8e9d80-bd96-11eb-98b9-9bf321dcc803.png)
+
 SLOG의 뜻 : (시간이 오래 걸리는 힘든지루한 일을) 열심히[묵묵히] 하다 또는 힘겹게[묵묵히] 걷다[다니다]
 
 # 1학기 프로젝트 내용
