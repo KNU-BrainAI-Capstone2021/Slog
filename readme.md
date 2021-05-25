@@ -19,6 +19,8 @@ SNS사용자의 데이터를 분석하여 autotag 프로그램 개발
 조원|윤성민|
 조원|이지현|
 
+# 진행과정
+
 #자동로그인과 자동으로 태그를 검색하기
 
 ![자동로그인](https://user-images.githubusercontent.com/80320168/119519066-13453e00-bdb4-11eb-8243-11c7bc1e3ed1.gif)
@@ -27,7 +29,10 @@ SNS사용자의 데이터를 분석하여 autotag 프로그램 개발
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/80320168/119503688-34069700-bda6-11eb-9eaa-943547a03576.gif)
 
-# 진행과정
+#태그분석을 위한 워드클라우드 출력하기
+
+<img src="https://user-images.githubusercontent.com/80320168/119524340-8355c300-bdb8-11eb-9393-1c24ad3fcce4.png"  width="550" height="450">
+
 
 날짜| 요약|
 ---|---|
