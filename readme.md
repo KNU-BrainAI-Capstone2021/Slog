@@ -33,6 +33,10 @@ SNS사용자의 데이터를 분석하여 autotag 프로그램 개발
 
 <img src="https://user-images.githubusercontent.com/80320168/119524340-8355c300-bdb8-11eb-9393-1c24ad3fcce4.png"  width="550" height="450">
 
+#자동로그인과 다운받고 싶은 이미지의 태그를 입력하여 첫페이지의 사진을 자동으로 다운받아 지정된 폴더에 태그이름+숫자 형태로 자동 저장하기
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/80320168/122638602-035d1780-d130-11eb-9d32-b3a73187138c.gif)
+
 
 날짜| 요약|
 ---|---|
