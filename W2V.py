@@ -1,8 +1,3 @@
-import io
-import os
-import re
-import shutil
-import string
 import tensorflow as tf
 import pandas as pd
 import numpy as np
@@ -21,11 +16,14 @@ df_cat = [
      "#like #dogsofinstagram #gatto #day #kucing #catofinstagram #catphoto #kedi #k #catworld"]
 
 
+df_cat = [s.replace('#', '') for s in df_cat]
+
+
 def remove_stop_words(df_cat):
     stop_words = ['is', 'of', 'instagram', 'love', 'follow']
     results = []
     for text in df_cat:
-        tmp = text.split('#')
+        tmp = text.split(' ')
         for stop_word in stop_words:
             if stop_word in tmp:
                 tmp.remove(stop_word)
@@ -36,7 +34,7 @@ def remove_stop_words(df_cat):
 
 words = []
 for text in df_cat:
-    for word in text.split('#'):
+    for word in text.split(' '):
         words.append(word)
 
 words = set(words)
