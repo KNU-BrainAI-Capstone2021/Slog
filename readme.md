@@ -10,6 +10,10 @@ SNS사용자의 데이터를 분석하여 autotag 프로그램 개발
 
 <img src="https://user-images.githubusercontent.com/80320168/119504353-d7f04280-bda6-11eb-855c-d841a7730b8d.jpg"  width="400" height="300">
 
+#해쉬태그
+
+<img src="https://user-images.githubusercontent.com/80320168/122916162-8fbd4380-d397-11eb-8fd1-009f7451ed7a.png"  width="400" height="280">
+
 #구성인원: 총 4명
 
 역할|이름|Github ID|
@@ -18,6 +22,15 @@ SNS사용자의 데이터를 분석하여 autotag 프로그램 개발
 조원|정재호|jaeho98|
 조원|윤성민|newskyy135|
 조원|이지현|ww42777|
+
+# 준비과정
+
+#웹드라이버인 chromedriver.exe 설치
+
+<img src="https://user-images.githubusercontent.com/80320168/122917316-de1f1200-d398-11eb-8b75-ad014d8ed9c4.png"  width="500" height="250">
+
+#import할 라이브러리 사전 준비
+
 
 # 진행과정
 
@@ -36,6 +49,11 @@ SNS사용자의 데이터를 분석하여 autotag 프로그램 개발
 #자동로그인과 다운받고 싶은 이미지의 태그를 입력하여 첫페이지의 사진을 자동으로 다운받아 지정된 폴더에 태그이름+숫자 형태로 자동 저장하기
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/80320168/122638602-035d1780-d130-11eb-9d32-b3a73187138c.gif)
+
+#csv파일을 열었을 때 한글 안 나오는 문제 해결하기
+
+![한글나옴](https://user-images.githubusercontent.com/80320168/122915759-11f93800-d397-11eb-85d4-2c8d5c996f1b.gif)
+
 
 
 날짜| 요약|
