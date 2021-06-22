@@ -31,6 +31,9 @@ SNS사용자의 데이터를 분석하여 autotag 프로그램 개발
 
 #import할 라이브러리 사전 준비
 
+-Beautiful Soup와 Selenium을 설치하고, 진행하면서 필요한 라이브러리 추가로 설치한다.
+
+![준비과정최종](https://user-images.githubusercontent.com/80320168/122919704-803ff980-d39b-11eb-9a95-de0d4a1faa8c.jpg)
 
 # 진행과정
 
