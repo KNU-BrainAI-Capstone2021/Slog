@@ -29,15 +29,11 @@ SNS사용자의 데이터를 분석하여 autotag 프로그램 개발
 
 -CBOW model
 
-<img src="https://user-images.githubusercontent.com/80320168/122943382-efc0e380-d3b1-11eb-87ec-ab9ed4c95a83.png"  width="400" height="280">
-
-<img src="https://user-images.githubusercontent.com/80320168/122943596-1e3ebe80-d3b2-11eb-9072-9a58bba17d69.png" width="400" height="250">
+<img src="https://user-images.githubusercontent.com/80320168/122943382-efc0e380-d3b1-11eb-87ec-ab9ed4c95a83.png"  width="400" height="280"><img src="https://user-images.githubusercontent.com/80320168/122943596-1e3ebe80-d3b2-11eb-9072-9a58bba17d69.png" width="400" height="250">
 
 -Skip gram model
 
-<img src="https://user-images.githubusercontent.com/80320168/122943826-4fb78a00-d3b2-11eb-8ab9-e5ff0cae559e.png" width="400" height="280">
-
-<img src="https://user-images.githubusercontent.com/80320168/122945821-cef98d80-d3b3-11eb-8cbd-e67cf0afec42.png" width="400" height="250">
+<img src="https://user-images.githubusercontent.com/80320168/122943826-4fb78a00-d3b2-11eb-8ab9-e5ff0cae559e.png" width="400" height="280"><img src="https://user-images.githubusercontent.com/80320168/122945821-cef98d80-d3b3-11eb-8cbd-e67cf0afec42.png" width="400" height="250">
 
 # 준비과정
 
@@ -103,3 +99,10 @@ SNS사용자의 데이터를 분석하여 autotag 프로그램 개발
 6.19|텍스트크롤러 코드 완성|
 6.20|데이터를 바탕으로 cnn완성|
 6.21|조교님 미팅 및 이미지 증식고안|
+
+# 깃허브 소스코드 파일
+
+자료| 내용|
+---|---|
+[new 이미지 크롤러.py](https://github.com/KNU-BrainAI-Capstone2021/Slog/blob/main/%EC%9D%B8%EC%8A%A4%ED%83%80%EA%B7%B8%EB%9E%A8%20%ED%81%AC%EB%A1%A4%EB%9F%AC/new%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%ED%81%AC%EB%A1%A4%EB%9F%AC.py)|인스타그램 이미지 다운(image download)|
+[텍스트크롤링 최종본(업로드용).py](https://github.com/KNU-BrainAI-Capstone2021/Slog/blob/main/%EC%9D%B8%EC%8A%A4%ED%83%80%EA%B7%B8%EB%9E%A8%20%ED%81%AC%EB%A1%A4%EB%9F%AC/%ED%85%8D%EC%8A%A4%ED%8A%B8%ED%81%AC%EB%A1%A4%EB%A7%81%20%EC%B5%9C%EC%A2%85%EB%B3%B8(%EC%97%85%EB%A1%9C%EB%93%9C%EC%9A%A9).py)|텍스트 크롤링(text crawler)|
