@@ -23,6 +23,22 @@ SNS사용자의 데이터를 분석하여 autotag 프로그램 개발
 조원|윤성민|newskyy135|
 조원|이지현|ww42777|
 
+# 개념
+
+#WORD2VEC
+
+-CBOW model
+
+<img src="https://user-images.githubusercontent.com/80320168/122943382-efc0e380-d3b1-11eb-87ec-ab9ed4c95a83.png"  width="400" height="280">
+
+<img src="https://user-images.githubusercontent.com/80320168/122943596-1e3ebe80-d3b2-11eb-9072-9a58bba17d69.png" width="400" height="250">
+
+-Skip gram model
+
+<img src="https://user-images.githubusercontent.com/80320168/122943826-4fb78a00-d3b2-11eb-8ab9-e5ff0cae559e.png" width="400" height="280">
+
+<img src="https://user-images.githubusercontent.com/80320168/122945821-cef98d80-d3b3-11eb-8cbd-e67cf0afec42.png" width="400" height="250">
+
 # 준비과정
 
 #웹드라이버인 chromedriver.exe 설치
