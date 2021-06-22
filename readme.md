@@ -106,3 +106,4 @@ SNS사용자의 데이터를 분석하여 autotag 프로그램 개발
 ---|---|
 [new 이미지 크롤러.py](https://github.com/KNU-BrainAI-Capstone2021/Slog/blob/main/%EC%9D%B8%EC%8A%A4%ED%83%80%EA%B7%B8%EB%9E%A8%20%ED%81%AC%EB%A1%A4%EB%9F%AC/new%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%ED%81%AC%EB%A1%A4%EB%9F%AC.py)|인스타그램 이미지 다운(image download)|
 [텍스트크롤링 최종본(업로드용).py](https://github.com/KNU-BrainAI-Capstone2021/Slog/blob/main/%EC%9D%B8%EC%8A%A4%ED%83%80%EA%B7%B8%EB%9E%A8%20%ED%81%AC%EB%A1%A4%EB%9F%AC/%ED%85%8D%EC%8A%A4%ED%8A%B8%ED%81%AC%EB%A1%A4%EB%A7%81%20%EC%B5%9C%EC%A2%85%EB%B3%B8(%EC%97%85%EB%A1%9C%EB%93%9C%EC%9A%A9).py)|텍스트 크롤링(text crawler)|
+[cnn학습.py](https://github.com/KNU-BrainAI-Capstone2021/Slog/blob/main/cnn%ED%95%99%EC%8A%B5.py)|이미지의 CNN 학습|
