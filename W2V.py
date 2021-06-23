@@ -83,6 +83,8 @@ X_train = np.asarray(X)
 Y_train = np.asarray(Y)
 
 # making placeholders for X_train and Y_train
+import tensorflow.compat.v1 as tf
+tf.disable_v2_behavior()
 x = tf.placeholder(tf.float32, shape=(None, ONE_HOT_DIM))
 y_label = tf.placeholder(tf.float32, shape=(None, ONE_HOT_DIM))
 
