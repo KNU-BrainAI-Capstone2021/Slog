@@ -14,7 +14,7 @@ SNS사용자의 데이터를 분석하여 autotag 프로그램 개발
 
 <img src="https://user-images.githubusercontent.com/80320168/122916162-8fbd4380-d397-11eb-8fd1-009f7451ed7a.png"  width="400" height="280">
 
-#구성인원: 총 4명
+#구성인원: 총 5명
 
 역할|이름|Github ID|
 ---|---|---|
@@ -22,6 +22,7 @@ SNS사용자의 데이터를 분석하여 autotag 프로그램 개발
 조원|정재호|jaeho98|
 조원|윤성민|newskyy135|
 조원|이지현|ww42777|
+조원|김영호|yeongho24|
 
 # 개념
 
@@ -114,3 +115,10 @@ SNS사용자의 데이터를 분석하여 autotag 프로그램 개발
 [텍스트크롤링 최종본(업로드용).py](https://github.com/KNU-BrainAI-Capstone2021/Slog/blob/main/%EC%9D%B8%EC%8A%A4%ED%83%80%EA%B7%B8%EB%9E%A8%20%ED%81%AC%EB%A1%A4%EB%9F%AC/%ED%85%8D%EC%8A%A4%ED%8A%B8%ED%81%AC%EB%A1%A4%EB%A7%81%20%EC%B5%9C%EC%A2%85%EB%B3%B8(%EC%97%85%EB%A1%9C%EB%93%9C%EC%9A%A9).py)|텍스트 크롤링(text crawler)|
 [cnn학습.py](https://github.com/KNU-BrainAI-Capstone2021/Slog/blob/main/cnn%ED%95%99%EC%8A%B5.py)|이미지의 CNN 학습|
 [W2V.py](https://github.com/KNU-BrainAI-Capstone2021/Slog/blob/main/W2V.py)|word embedding의 word2vec |
+
+# 2학기 프로젝트 내용
+
+날짜| 요약|
+---|---|
+9/1|2학기 첫 팀미팅|
+
