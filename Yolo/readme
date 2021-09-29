@@ -3,3 +3,12 @@ https://github.com/ultralytics/yolov5
 
 YOLO detection 파일을 실행시킬때 폴더를 만들고 그 안에 coconames 와 이미지들을 넣어야 합니다. 그리고 cfg, weight 이름만 바꿔서 넣으면 정상작동합니다. OPENCV를 이용하였습니다
 그리고 weight 파일들은 용량이 크기때문에 구글에서 각 버전을 검색하셔서 다운받아야합니다.
+
+커스텀 데이터를 사용하기 위해서 라벨링을 진행할 예정입니다.
+roboflow 에 회원가입하면 public dataset들을 다운받거나 직접 이미지를 업로드하여 라벨링과 pre-training을 해줄 수 있습니다.
+
+imagenet의 파일들 또한 사용 가능합니다.
+
+coconames는 80개의 카테고리 밖에 존재하지 않기 때문에 별도로 커스텀 학습을 진행합니다. 
+
+현재 테스트 예정이지만 coco9k, yolo9k 가 작동한다면 커스텀 데이터 학습은 불필요합니다.
