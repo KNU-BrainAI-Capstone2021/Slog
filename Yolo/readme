@@ -1,0 +1,5 @@
+YOLO V5모델은 용량이 크기때문에 아래의 링크로 들어가서 다운로드 받으세요
+https://github.com/ultralytics/yolov5
+
+YOLO detection 파일을 실행시킬때 폴더를 만들고 그 안에 coconames 와 이미지들을 넣어야 합니다. 그리고 cfg, weight 이름만 바꿔서 넣으면 정상작동합니다. OPENCV를 이용하였습니다
+그리고 weight 파일들은 용량이 크기때문에 구글에서 각 버전을 검색하셔서 다운받아야합니다.
