@@ -14,6 +14,10 @@ SNS사용자의 데이터를 분석하여 autotag 프로그램 개발
 
 <img src="https://user-images.githubusercontent.com/80320168/122916162-8fbd4380-d397-11eb-8fd1-009f7451ed7a.png"  width="400" height="280">
 
+# 2학기 프로젝트 내용
+1학기 프로젝트때 구현한 크롤러를 바탕으로 SNS에서 사진을 받아와서 학습시키고, YOLOv5를 이용해 object detection 기술을 활용하여 autotagging 을 고안한다
+
+
 #구성인원: 총 5명
 
 역할|이름|Github ID|
