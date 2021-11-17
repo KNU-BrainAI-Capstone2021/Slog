@@ -11,11 +11,11 @@ driver = webdriver.Chrome(r'C:\Users\brass\Desktop\Insta\chromedriver.exe') #경
 url = 'https://www.instagram.com'
 driver.get(url)
 time.sleep(4)
-email = 'freshtrynowhat@gmail.com'
+email = '(ID)'
 input_id = driver.find_elements_by_css_selector('input._2hvTZ.pexuQ.zyHYP')[0]
 input_id.clear()
 input_id.send_keys(email)
-password = 'Whtlago!35'
+password = '(Password)'
 input_pw = driver.find_elements_by_css_selector('input._2hvTZ.pexuQ.zyHYP')[1]
 input_pw.clear()
 input_pw.send_keys(password)
