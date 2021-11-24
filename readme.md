@@ -46,7 +46,9 @@ SNS사용자의 데이터를 분석하여 autotag 프로그램 개발
 ![image](https://user-images.githubusercontent.com/79971467/143189410-7ece86b7-4a08-4910-8f23-8126ff9f9785.png)
 
 위의 그림은 이미지 해시태그를 추출하는 과정의 구조도입니다. 
-유저가 사진을 input으로 넣으면, yolov4가 object detection을 실시하게 되고, 이후 나온 labels들을 한국어로 바꿔주기 위하여 파파고 api를 추가하였습니다.
+유저가 사진을 input으로 넣으면, yolov4가 object detection을 실시하게 되고, 
+이후 나온 labels들을 한국어로 바꿔주기 위하여 파파고 api를 추가하였습니다.
+
 
 papago (조장)
 kobart (bart의 한국어버전) 깃허브
