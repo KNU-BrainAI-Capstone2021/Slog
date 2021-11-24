@@ -41,10 +41,9 @@ SNS사용자의 데이터를 분석하여 autotag 프로그램 개발
 9/13|주차별 계획 확립|
 9/27|YOLO V5모델 |
 
-# 해야할일
+# 사용한 기술들
+<Computer Vision For Image Hashtag>
 
-깃허브 리뉴얼 내용
-yolov4 한국어 리뷰
 papago (조장)
 kobart (bart의 한국어버전) 깃허브
 kkma tokenizer 서울대학교
