@@ -46,19 +46,38 @@ SNS사용자의 데이터를 분석하여 autotag 프로그램 개발
 ![image](https://user-images.githubusercontent.com/79971467/143189410-7ece86b7-4a08-4910-8f23-8126ff9f9785.png)
 
 위의 그림은 이미지 해시태그를 추출하는 과정의 구조도입니다. 
-유저가 사진을 input으로 넣으면, yolov4가 object detection을 실시하게 되고, 
+유저가 사진을 input으로 넣으면, yolov4가 object detection을 실시하게 됩니다.
+
+
+![image](https://user-images.githubusercontent.com/79971467/143190361-1fbb7e3f-773c-407f-ae07-2688a3388659.png)
+
 이후 나온 labels들을 한국어로 바꿔주기 위하여 파파고 api를 추가하였습니다.
+(label 프로그램은 영어로만 class 이름들을 저장 할 수 있기 때문입니다.)
 
+### Natural Language Processing For Text Hashtag
+![image](https://user-images.githubusercontent.com/79971467/143189971-d2fbda83-79d2-429d-a45f-d7b59cbd59f9.png)
 
-papago (조장)
-kobart (bart의 한국어버전) 깃허브
-kkma tokenizer 서울대학교
+위의 그림은 텍스트 해시태그를 추출하는 과정의 구조도입니다.
+유저가 텍스트를 input으로 넣으면, kobart가 summarization을 실시하게 되고, 이후 나온 요약문장에서 KKMA Tokenizer를 이용하여 Nouns만 추출하여 output으로 제시합니다. 추가로 한 글자는 제거하는 기능을 추가했습니다.
 
-구조 사진파일 
+![image](https://user-images.githubusercontent.com/79971467/143190613-0bd8ffe9-c0a2-4cb4-a2b9-9cc9b98dd98d.png)
 
-성민 - 레이블링 + 어플리케이션
-재호 영호 - 레이블링
-지현 - 깃허브 리뉴얼 + 레이블링
+kobart는 기존의 BERT와 GPT의 단점들을 보완한 모델로써, 주어진 텍스트를 요약하기 위해 사용했습니다.
 
-레이블링 - 일요일 오후까지
-어플리케이션 -> 라이브러리 뭐쓸지, 어떻게 동작하게 할지, 간단하게 그림으로?
+![image](https://user-images.githubusercontent.com/79971467/143190732-e19842f1-a5fb-44d8-90a9-7cfa85e92167.png)
+
+요약된 문장에서 명사만 추출하기 위하여 저희는 KKMA tokenizer를 이용했습니다.
+
+### Sum Image + Text hashtag
+![image](https://user-images.githubusercontent.com/79971467/143190163-4134f3f3-28e4-46b4-add7-fc374719ac94.png)
+
+위의 그림은 두가지 해시태그를 더해서 중복을 제거하고 최종 해시태그를 제시하는 구조도입니다.
+이 과정의 결과값이 사용자에게 보여집니다.
+
+### Full Structure
+![해시태그 구조 최종](https://user-images.githubusercontent.com/79971467/143190839-83c96b04-3b7c-4c8e-91c1-afef1b041d0e.png)
+
+전체 구조도입니다.
+
+#To Make Application - 윤성민
+
