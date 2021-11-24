@@ -44,17 +44,18 @@ YOLO는 real time object detection에 사용되는 알고리즘입니다.
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/80320168/122638602-035d1780-d130-11eb-9d32-b3a73187138c.gif)
 
-### YOLOV5 Detect 후 결과
+### YOLOV5 Detect하기
 
-![yolo결과](https://user-images.githubusercontent.com/80320168/143214094-2adf2272-f91a-4774-808b-b18dab8152ce.png)
+<img src="https://user-images.githubusercontent.com/80320168/143214094-2adf2272-f91a-4774-808b-b18dab8152ce.png"  width="500" height="300">
+
 
 ### 외부 데이터셋 사용해보기
 
-![외부데이터셋1](https://user-images.githubusercontent.com/80320168/143214436-d91b7c5a-ce40-4103-9336-230076980e29.png)
+<img src="https://user-images.githubusercontent.com/80320168/143214436-d91b7c5a-ce40-4103-9336-230076980e29.png" width="500" height="300">
 
 ### 커스텀 데이터셋 만들기
 
-![데이터셋](https://user-images.githubusercontent.com/80320168/143215265-e18e4a9b-1a0d-46b4-95c1-3e81c95c10a8.png)
+<img src="https://user-images.githubusercontent.com/80320168/143215265-e18e4a9b-1a0d-46b4-95c1-3e81c95c10a8.png" width="500" height="300">
 
 # 매일 해결중인 과제 주제
 
