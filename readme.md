@@ -79,5 +79,5 @@ kobart는 기존의 BERT와 GPT의 단점들을 보완한 모델로써, 주어�
 
 전체 구조도입니다.
 
-#To Make Application - 윤성민
+# To Make Application - 윤성민
 
