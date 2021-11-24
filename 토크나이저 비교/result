@@ -1,0 +1,7 @@
+# 어떤 형태소가 좋다고 결론을 내리기 어려웠다. 
+
+OKT와 MECAB의 성능이 비슷했고
+
+보다 Social Media에 가까운 것은 KKMA와 Hannanum 이었다.
+
+따라서, 다른 텍스트를 입력했을때 kkma와 hannanum을 비교해봐야겠다.
