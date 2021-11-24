@@ -43,7 +43,7 @@ SNS사용자의 데이터를 분석하여 autotag 프로그램 개발
 
 # 사용한 기술들
 <Computer Vision For Image Hashtag>
-
+![image](https://user-images.githubusercontent.com/79971467/143189410-7ece86b7-4a08-4910-8f23-8126ff9f9785.png)
 papago (조장)
 kobart (bart의 한국어버전) 깃허브
 kkma tokenizer 서울대학교
