@@ -9,7 +9,7 @@ SNS사용자의 데이터를 분석하여 autotag 프로그램 개발
 [1학기 졸업프로젝트](https://github.com/KNU-BrainAI-Capstone2021/Slog/blob/main/1%ED%95%99%EA%B8%B0readme.md)
 
 # 2학기 프로젝트 내용
-1학기 프로젝트때 구현한 크롤러를 바탕으로 SNS에서 사진을 받아와서 학습시키고, YOLOv5를 이용해 object detection 기술을 활용하여 autotagging 을 고안한다.
+1학기 프로젝트때 구현한 크롤러를 바탕으로 SNS에서 사진을 받아와서 학습시키고, YOLOv5를 이용해 object detection 기술을 활용하여 autotagging 을 고안합니다.
 
 
 #구성인원: 총 5명
@@ -22,16 +22,41 @@ SNS사용자의 데이터를 분석하여 autotag 프로그램 개발
 조원|이지현|ww42777|
 조원|김영호|yeongho24|
 
+# 개념
+
+### YOLO
+
+<img width="400" alt="yolo개념" src="https://user-images.githubusercontent.com/80320168/143212346-46c4c6cb-ac97-45c6-86e0-56899345f806.png">
+
+YOLO는 real time object detection에 사용되는 알고리즘입니다.
+
+<img width="598" alt="yolo역사" src="https://user-images.githubusercontent.com/80320168/143212995-08e3ea24-9303-4dc8-98fd-78dce2051dad.png">
+
+### roboflow
+
+<img width="600" alt="roboflow1" src="https://user-images.githubusercontent.com/80320168/143214881-bec850e9-2474-47c1-9c99-f69d42aa42e4.png">
 
 # 진행과정
 
-#인스타그램 게시물을 크롤링하기
+### 인스타그램 게시물을 크롤링하기
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/80320168/119503688-34069700-bda6-11eb-9eaa-943547a03576.gif)
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/80320168/122638602-035d1780-d130-11eb-9d32-b3a73187138c.gif)
 
-#매일 해결중인 과제 주제
+### YOLOV5 Detect 후 결과
+
+![yolo결과](https://user-images.githubusercontent.com/80320168/143214094-2adf2272-f91a-4774-808b-b18dab8152ce.png)
+
+### 외부 데이터셋 사용해보기
+
+![외부데이터셋1](https://user-images.githubusercontent.com/80320168/143214436-d91b7c5a-ce40-4103-9336-230076980e29.png)
+
+### 커스텀 데이터셋 만들기
+
+![데이터셋](https://user-images.githubusercontent.com/80320168/143215265-e18e4a9b-1a0d-46b4-95c1-3e81c95c10a8.png)
+
+# 매일 해결중인 과제 주제
 
 날짜| 요약|
 ---|---|
