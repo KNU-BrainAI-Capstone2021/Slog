@@ -62,10 +62,7 @@ YOLO는 real time object detection에 사용되는 알고리즘입니다.
 
 Okt, Mecab, Kkma, Komoran, Hannanum 의 성능을 비교하였습니다. 
 
-<img src="https://user-images.githubusercontent.com/80320168/143944034-34fad974-c0e3-4897-a7be-5b192fb6573d.png" width="800" height="400">
-
-<img src="https://user-images.githubusercontent.com/80320168/143943419-969a055f-28ab-4e01-a49b-76477865c557.png" width="700" height="100">
-
+<img src="https://user-images.githubusercontent.com/80320168/143946168-1239dbf8-b3b3-4b07-b0ad-fa0c1877303b.png" width="700" height="100">
 
 # 매일 해결중인 과제 주제
 
@@ -122,3 +119,9 @@ kobart는 기존의 BERT와 GPT의 단점들을 보완한 모델로써, 주어�
 
 <img src="https://user-images.githubusercontent.com/80320168/143942196-407b5258-00f0-4e13-ba4e-7b026c7b6d4f.png" width="600" height="400">
 
+# 깃허브 소스코드 파일
+
+자료| 내용|
+---|---|
+[new 이미지 크롤러.py](https://github.com/KNU-BrainAI-Capstone2021/Slog/blob/main/%EC%9D%B8%EC%8A%A4%ED%83%80%EA%B7%B8%EB%9E%A8%20%ED%81%AC%EB%A1%A4%EB%9F%AC/new%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%ED%81%AC%EB%A1%A4%EB%9F%AC.py)|인스타그램 이미지 다운(image download)|
+[yolopapago.py](https://github.com/KNU-BrainAI-Capstone2021/Slog/blob/main/Yolo/yolopapago.py)|yolo 파파고 버전|
