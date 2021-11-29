@@ -34,7 +34,8 @@ YOLO는 real time object detection에 사용되는 알고리즘입니다.
 
 ### roboflow
 
-<img width="600" alt="roboflow1" src="https://user-images.githubusercontent.com/80320168/143214881-bec850e9-2474-47c1-9c99-f69d42aa42e4.png">
+<img width="400" alt="robo" src="https://user-images.githubusercontent.com/80320168/143943894-d8d7aa6a-46a2-4852-93ed-072a681fc2ef.png">
+
 
 # 진행과정
 
@@ -51,11 +52,20 @@ YOLO는 real time object detection에 사용되는 알고리즘입니다.
 
 ### 외부 데이터셋 사용해보기
 
-<img src="https://user-images.githubusercontent.com/80320168/143214436-d91b7c5a-ce40-4103-9336-230076980e29.png" width="500" height="300">
+<img src="https://user-images.githubusercontent.com/80320168/143214436-d91b7c5a-ce40-4103-9336-230076980e29.png" width="600" height="400">
 
 ### 커스텀 데이터셋 만들기
 
-<img src="https://user-images.githubusercontent.com/80320168/143215265-e18e4a9b-1a0d-46b4-95c1-3e81c95c10a8.png" width="500" height="300">
+<img src="https://user-images.githubusercontent.com/80320168/143941889-1f73e0de-987c-4222-b0a5-29c9d4ccd295.png" width="600" height="450">
+
+### 한국어 형태소 분석기(5개)의 성능 비교
+
+Okt, Mecab, Kkma, Komoran, Hannanum 의 성능을 비교하였습니다. 
+
+<img src="https://user-images.githubusercontent.com/80320168/143944034-34fad974-c0e3-4897-a7be-5b192fb6573d.png" width="800" height="400">
+
+<img src="https://user-images.githubusercontent.com/80320168/143943419-969a055f-28ab-4e01-a49b-76477865c557.png" width="700" height="100">
+
 
 # 매일 해결중인 과제 주제
 
@@ -63,7 +73,12 @@ YOLO는 real time object detection에 사용되는 알고리즘입니다.
 ---|---|
 9/1|2학기 첫 팀미팅|
 9/13|주차별 계획 확립|
-9/27|YOLO V5모델 |
+9/27|YOLO V5모델|
+10/6|외부 데이터셋 사용|
+10/14|roboflow에 커스텀 데이터셋 만들기 시작|
+11/17|팀 회의|
+11/20|어플리케이션 개발 계획|
+11/24|커스텀 데이터셋 약 4000개 완성|
 
 # 사용한 기술들
 ### Computer Vision For Image Hashtag
@@ -103,5 +118,7 @@ kobart는 기존의 BERT와 GPT의 단점들을 보완한 모델로써, 주어�
 
 전체 구조도입니다.
 
-# To Make Application - 윤성민
+# Auto-Hashtagging system for APP
+
+<img src="https://user-images.githubusercontent.com/80320168/143942196-407b5258-00f0-4e13-ba4e-7b026c7b6d4f.png" width="600" height="400">
 
