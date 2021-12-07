@@ -126,3 +126,4 @@ kobart는 기존의 BERT와 GPT의 단점들을 보완한 모델로써, 주어�
 ---|---|
 [new 이미지 크롤러.py](https://github.com/KNU-BrainAI-Capstone2021/Slog/blob/main/%EC%9D%B8%EC%8A%A4%ED%83%80%EA%B7%B8%EB%9E%A8%20%ED%81%AC%EB%A1%A4%EB%9F%AC/new%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%ED%81%AC%EB%A1%A4%EB%9F%AC.py)|인스타그램 이미지 다운(image download)|
 [yolopapago.py](https://github.com/KNU-BrainAI-Capstone2021/Slog/blob/main/Yolo/yolopapago.py)|yolo 파파고 버전|
+[토크나이저_test.py](https://github.com/KNU-BrainAI-Capstone2021/Slog/blob/main/%ED%86%A0%ED%81%AC%EB%82%98%EC%9D%B4%EC%A0%80%20%EB%B9%84%EA%B5%90/%ED%86%A0%ED%81%AC%EB%82%98%EC%9D%B4%EC%A0%80_test.py)|토크나이저 비교|
