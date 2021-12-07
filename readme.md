@@ -56,7 +56,8 @@ YOLO는 real time object detection에 사용되는 알고리즘입니다.
 
 ### 커스텀 데이터셋 만들기
 
-<img src="https://user-images.githubusercontent.com/80320168/143941889-1f73e0de-987c-4222-b0a5-29c9d4ccd295.png" width="600" height="450">
+<img width="509" alt="이미지파이널" src="https://user-images.githubusercontent.com/80320168/145040440-024792fb-8618-472f-94d9-e23b7b37634b.png">
+
 
 ### 한국어 형태소 분석기(5개)의 성능 비교
 
