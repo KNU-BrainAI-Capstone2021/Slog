@@ -52,7 +52,7 @@ YOLO는 real time object detection에 사용되는 알고리즘입니다.
 
 ### 외부 데이터셋 사용해보기
 
-<img src="https://user-images.githubusercontent.com/80320168/143214436-d91b7c5a-ce40-4103-9336-230076980e29.png" width="600" height="400">
+<img src="https://user-images.githubusercontent.com/80320168/143214436-d91b7c5a-ce40-4103-9336-230076980e29.png" width="600" height="300">
 
 ### 커스텀 데이터셋 만들기
 
@@ -64,6 +64,7 @@ YOLO는 real time object detection에 사용되는 알고리즘입니다.
 Okt, Mecab, Kkma, Komoran, Hannanum 의 성능을 비교하였습니다. 
 
 <img src="https://user-images.githubusercontent.com/80320168/143946168-1239dbf8-b3b3-4b07-b0ad-fa0c1877303b.png" width="700" height="100">
+
 
 # 매일 해결중인 과제 주제
 
@@ -77,6 +78,10 @@ Okt, Mecab, Kkma, Komoran, Hannanum 의 성능을 비교하였습니다.
 11/17|팀 회의|
 11/20|어플리케이션 개발 계획|
 11/24|커스텀 데이터셋 약 4000개 완성|
+12/2|커스텀 데이터셋 최종적으로 약 17000 완성|
+12/4|커스텀 데이터셋 training|
+12/6|어플리케이션 개발 및 구동테스트|
+
 
 # 사용한 기술들
 ### Computer Vision For Image Hashtag
@@ -119,6 +124,16 @@ kobart는 기존의 BERT와 GPT의 단점들을 보완한 모델로써, 주어�
 # Auto-Hashtagging system for APP
 
 <img src="https://user-images.githubusercontent.com/80320168/143942196-407b5258-00f0-4e13-ba4e-7b026c7b6d4f.png" width="600" height="400">
+
+<img width="500" alt="어플리케이션2" src="https://user-images.githubusercontent.com/80320168/145171865-f4d727e1-297f-4946-beac-50741a238586.png">
+
+사진 입력과 텍스트를 입력할 수 있도록 프로토타입을 완성하였고 HTML과 CSS, JavaScript를 이용해서 웹페이지를 만들었습니다.
+
+<img width="471" alt="웹가동1" src="https://user-images.githubusercontent.com/80320168/145173223-713377a8-17fe-4c18-b611-aa7c0b89c554.png">
+
+<img width="463" alt="웹가동2" src="https://user-images.githubusercontent.com/80320168/145173229-c988f325-c6eb-42e7-ab13-f157cc5497bb.png">
+
+Flask를 이용해 HTML과 연동하고 입력 함수를 호출하여 웹에서 받은 이미지와 텍스트를 yolo의 입력값으로 지정했습니다. 
 
 # 깃허브 소스코드 파일
 
